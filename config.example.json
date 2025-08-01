@@ -1,0 +1,22 @@
+{
+    "application_questions": [
+        "What is your Minecraft username?",
+        "How old are you?",
+        "How long have you been playing Minecraft?",
+        "What type of player are you? (Builder, Redstone, PvP, etc.)",
+        "Why do you want to join our server?",
+        "Do you have any experience with other Minecraft servers?",
+        "How much time do you plan to spend on the server?",
+        "Do you agree to follow our server rules? (Yes/No)",
+        "Any additional information you'd like to share?"
+    ],
+    "application_channel_id": 1234567890123456789,
+    "admin_role_id": 1234567890123456789,
+    "log_channel_id": 1234567890123456789,
+    "approved_role_id": 1234567890123456789,
+    "denied_role_id": 1234567890123456789,
+    "applicant_role_id": 1234567890123456789,
+    "rules_channel_id": 1234567890123456789,
+    "faq_channel_id": 1234567890123456789,
+    "join_channel_id": 1234567890123456789
+} 
