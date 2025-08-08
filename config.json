@@ -5,7 +5,7 @@
         "How long have you been playing Minecraft?",
         "What type of player are you? (Builder, Redstone, PvP, etc.)",
         "Why do you want to join our server?",
-        "Do you have any experience with other Minecraft servers?",
+        "Do you have any experience with other Minecraft servers?"
     ],
     "application_channel_id": 1397954103501389825,
     "admin_role_id": 1399186400099827853,
@@ -16,4 +16,4 @@
     "rules_channel_id": 1399186783018815518,
     "faq_channel_id": 1399852937135656971,
     "join_channel_id": 1398882936475877457
-} 
+}
