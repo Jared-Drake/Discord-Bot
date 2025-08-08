@@ -10,13 +10,13 @@
         "Do you agree to follow our server rules? (Yes/No)",
         "Any additional information you'd like to share?"
     ],
-    "application_channel_id": 1234567890123456789,
-    "admin_role_id": 1234567890123456789,
-    "log_channel_id": 1234567890123456789,
-    "approved_role_id": 1234567890123456789,
-    "denied_role_id": 1234567890123456789,
-    "applicant_role_id": 1234567890123456789,
-    "rules_channel_id": 1234567890123456789,
-    "faq_channel_id": 1234567890123456789,
-    "join_channel_id": 1234567890123456789
+    "application_channel_id": 1397954103501389825,
+    "admin_role_id": 1399186400099827853,
+    "log_channel_id": 1400013128900542537,
+    "approved_role_id": 1399186242465431695,
+    "denied_role_id": 1400013325403820074,
+    "applicant_role_id": 1400168655991341198,
+    "rules_channel_id": 1399186783018815518,
+    "faq_channel_id": 1399852937135656971,
+    "join_channel_id": 1398882936475877457
 } 
