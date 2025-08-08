@@ -21,9 +21,6 @@ class Applications(commands.Cog):
                     "What type of player are you? (Builder, Redstone, PvP, etc.)",
                     "Why do you want to join our server?",
                     "Do you have any experience with other Minecraft servers?",
-                    "How much time do you plan to spend on the server?",
-                    "Do you agree to follow our server rules? (Yes/No)",
-                    "Any additional information you'd like to share?"
                 ]
             }
 
